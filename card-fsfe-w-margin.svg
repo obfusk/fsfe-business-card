@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="311.811"
+   height="205.51181"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="card-fsfe.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3606448"
+     inkscape:cx="57.25245"
+     inkscape:cy="97.440948"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1680"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3020"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-846.84906)">
+    <g
+       id="g3077"
+       transform="translate(8.4113617,-6.860059)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3022"
+         y="902.3609"
+         x="135"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="902.3609"
+           x="135"
+           id="tspan3024"
+           sodipodi:role="line">Felix C. Stegerman</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3026"
+         y="927.3609"
+         x="285"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3562"
+           y="927.3609"
+           x="285"
+           sodipodi:role="line">vice-coordinator</tspan><tspan
+           id="tspan3786"
+           y="942.3609"
+           x="285"
+           sodipodi:role="line">dutch fellowship group</tspan><tspan
+           id="tspan3788"
+           y="957.3609"
+           x="285"
+           sodipodi:role="line">free software foundation europe</tspan><tspan
+           id="tspan3897"
+           y="972.3609"
+           x="285"
+           sodipodi:role="line" /><tspan
+           id="tspan3560"
+           y="987.3609"
+           x="285"
+           sodipodi:role="line">flx@fsfe.org</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3030"
+         y="997.3609"
+         x="190"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="997.3609"
+           x="190"
+           id="tspan3032"
+           sodipodi:role="line" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3566"
+         y="1017.3609"
+         x="10"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="1017.3609"
+           x="10"
+           id="tspan3568"
+           sodipodi:role="line">gpg: 9B360F2D</tspan><tspan
+           id="tspan3579"
+           y="1029.8608"
+           x="10"
+           sodipodi:role="line">fpr: D5E4 A51D F8D2 55B9 FAC6</tspan><tspan
+           id="tspan3581"
+           y="1042.3608"
+           x="10"
+           sodipodi:role="line">     A9BB 2F96 07F0 9B36 0F2D </tspan></text>
+      <g
+         id="g3738"
+         transform="matrix(0.18567679,0,0,0.18567679,-4.6371182,824.0472)">
+        <rect
+           style="fill:#009900;fill-opacity:1;stroke:none"
+           id="rect1878"
+           width="158.57143"
+           height="158.57143"
+           x="284"
+           y="249.79076" />
+        <rect
+           style="fill:#009900;fill-opacity:1;stroke:none"
+           id="rect6448"
+           width="158.57143"
+           height="158.57143"
+           x="93.998253"
+           y="439.78693" />
+        <rect
+           style="fill:#009900;fill-opacity:1;stroke:none"
+           id="rect6464"
+           width="158.57143"
+           height="158.57143"
+           x="283.98581"
+           y="439.79303" />
+        <rect
+           style="fill:#009900;fill-opacity:1;stroke:none"
+           id="rect6523"
+           width="158.57143"
+           height="158.57143"
+           x="473.9971"
+           y="439.79004" />
+        <rect
+           style="fill:#009900;fill-opacity:1;stroke:none"
+           id="rect6535"
+           width="70.571426"
+           height="158.57143"
+           x="282.21429"
+           y="629.57648" />
+        <rect
+           style="fill:#009900;fill-opacity:1;stroke:none"
+           id="rect6547"
+           width="70.571426"
+           height="158.57143"
+           x="375.21426"
+           y="629.57648" />
+      </g>
+    </g>
+  </g>
+</svg>
