@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="155.9055"
+     inkscape:cx="28.905502"
      inkscape:cy="102.75591"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,8 +64,8 @@
      id="layer1"
      transform="translate(0,-846.84906)">
     <g
-       transform="translate(3.2839203,-7.9385224)"
-       id="g3259">
+       transform="translate(6.342514,-7.7178193)"
+       id="g3168">
       <text
          sodipodi:linespacing="125%"
          id="text3030"
@@ -79,7 +79,7 @@
            sodipodi:role="line" /></text>
       <g
          id="g3738"
-         transform="matrix(0.11231598,0,0,0.11231598,216.64263,941.60652)">
+         transform="matrix(0.10218417,0,0,0.10218417,215.51626,941.79764)">
         <rect
            style="fill:#009900;fill-opacity:1;stroke:none"
            id="rect1878"
@@ -126,105 +126,105 @@
       <text
          sodipodi:linespacing="125%"
          id="text3171"
-         y="907.3609"
-         x="10"
-         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         y="917.3609"
+         x="20"
+         style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="907.3609"
-           x="10"
+           y="917.3609"
+           x="20"
            id="tspan3173"
            sodipodi:role="line" /><tspan
            id="tspan3251"
-           y="924.8609"
-           x="10"
+           y="931.1109"
+           x="20"
            sodipodi:role="line">0. to run freely, for any purpose</tspan><tspan
            id="tspan3177"
-           y="942.3609"
-           x="10"
+           y="944.8609"
+           x="20"
            sodipodi:role="line">1. to study and adapt to your needs</tspan><tspan
            id="tspan3187"
-           y="959.8609"
-           x="10"
+           y="958.6109"
+           x="20"
            sodipodi:role="line">2. to redistribute, so you can help others</tspan><tspan
            id="tspan3181"
-           y="977.3609"
-           x="10"
+           y="972.3609"
+           x="20"
            sodipodi:role="line">3. to release improvements,</tspan><tspan
            id="tspan3185"
-           y="994.8609"
-           x="10"
+           y="986.1109"
+           x="20"
            sodipodi:role="line">    so everyone benefits</tspan><tspan
            id="tspan3183"
-           y="1012.3609"
-           x="10"
+           y="999.8609"
+           x="20"
            sodipodi:role="line" /></text>
       <text
          sodipodi:linespacing="125%"
          id="text3205"
          y="887.3609"
-         x="10"
-         style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="15"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="887.3609"
-           x="10"
+           x="15"
            id="tspan3207"
            sodipodi:role="line">Free Software</tspan><tspan
            id="tspan3209"
-           y="914.8609"
-           x="10"
+           y="907.3609"
+           x="15"
            sodipodi:role="line" /></text>
       <text
          sodipodi:linespacing="125%"
          id="text3211"
-         y="1042.3608"
-         x="225"
+         y="1037.3608"
+         x="220"
          style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="1042.3608"
-           x="225"
+           y="1037.3608"
+           x="220"
            id="tspan3213"
            sodipodi:role="line">www.fsfe.org</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3231"
-         y="1027.3608"
+         y="1022.3609"
          x="15"
          style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="1027.3608"
+           y="1022.3609"
            x="15"
            id="tspan3233"
            sodipodi:role="line">freedom</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3235"
-         y="1037.3608"
+         y="1032.3608"
          x="50"
          style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="1037.3608"
+           y="1032.3608"
            x="50"
            id="tspan3237"
            sodipodi:role="line">security</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3239"
-         y="1022.3609"
+         y="1017.3609"
          x="85"
          style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="1022.3609"
+           y="1017.3609"
            x="85"
            id="tspan3241"
            sodipodi:role="line">privacy</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3247"
-         y="1042.3608"
+         y="1037.3608"
          x="115"
          style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="1042.3608"
+           y="1037.3608"
            x="115"
            id="tspan3249"
            sodipodi:role="line">control</tspan></text>
@@ -232,11 +232,11 @@
          sodipodi:linespacing="125%"
          id="text3255"
          y="902.3609"
-         x="30"
+         x="35"
          style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="902.3609"
-           x="30"
+           x="35"
            id="tspan3257"
            sodipodi:role="line">grants you these four essential freedoms:</tspan></text>
     </g>
